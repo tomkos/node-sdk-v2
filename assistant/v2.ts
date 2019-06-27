@@ -243,7 +243,7 @@ class AssistantV2 extends BaseService {
 
     const parameters = {
       options: {
-        url: '/v2/assistants/{assistant_id}/sessions/{session_id}/message',
+        url: 'https://pzupoc2.eu-gb.mybluemix.net/leasingchat_v2/{assistant_id}/{session_id}',
         method: 'POST',
         body,
         path,
