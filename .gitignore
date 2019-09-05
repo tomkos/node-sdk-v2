@@ -31,6 +31,7 @@ visual-recognition/*.js
 text-to-speech/*.js
 speech-to-text/*.js
 authorization/*.js
+assistant/*.js
 compare-comply/*.js
 iam-token-manager/*.js
 index.js
