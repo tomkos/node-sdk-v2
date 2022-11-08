@@ -13,7 +13,7 @@
     "express": "^4.14.0",
     "shebang-loader": "0.0.1",
     "ibm-watson": "latest",
-    "webpack": "^2.2.1",
+    "webpack": "^5.74.0",
     "webpack-dev-middleware": "^1.10.0"
   },
   "devDependencies": {},
